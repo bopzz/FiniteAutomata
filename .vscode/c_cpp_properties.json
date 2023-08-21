@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "c99",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "compilerArgs": [
+                "-Wall",
+                "-Werror"
+            ]
+            // "browse": {
+            //     "limitSymbolsToIncludedHeaders": true,
+            //     "databaseFilename": ""
+            // }
+        }
+    ],
+    "version": 4
+}
